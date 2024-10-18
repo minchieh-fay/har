@@ -43,8 +43,8 @@ har是国产化集群编排系统
 - 实在需要的, 或者对产品有定制需求的, 可以通过下面的联系方式联系
 
 # 联系方式
-- 微信: quange805557  (个人微信, 加好友时请备注:har定制/har源码等)
-- 邮箱: minchieh.fay@hotmail.com
+- 微信: quange805557  (个人生活微信, 加好友时请备注:har定制/har源码等)
+- 邮箱: minchieh@hotmail.com
 
 # issus
 如果该产品有bug, 请提issus, 以及日志(日志在/var/lib/har目录), 万分感谢
