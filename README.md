@@ -2,6 +2,9 @@
 
 # 简介
 har是国产化集群编排系统
+har = K8S+UI管理(类似rancher)+etcd+coredns+ingress+cni+....
+一个小小的exe, 完成了所有K8S全家桶, 所有的事情让har管理, 不用运维, 不用每年更新证书
+easy quick and light
 
 # 使用方法
 前提: 
